@@ -1,4 +1,7 @@
 /* Place CSS styles here */
 body{
-    font-family: 'Pacifico', cursive
+    color: white;
+    font-family: 'Pacifico', cursive;
+    background-image: url(../img/3180126-asuka3.jpeg);
+    //background-size: cover;
 }
